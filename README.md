@@ -1,2 +1,2 @@
 # DataVisualisation2022
-Homeworks from Data Visualisation (D3.js)
+Homeworks from Data Visualisation course (D3.js)
